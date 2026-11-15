@@ -16,7 +16,7 @@ hero:
       link: "https://www.asprs.org/wp-content/uploads/pers/1999journal/apr/1999_apr_495-501.pdf"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+DSI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+DSI+%E2%80%94+"
 ---
 
 <script setup>

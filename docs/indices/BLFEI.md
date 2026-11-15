@@ -6,7 +6,7 @@ pageClass: "index-page domain-urban"
 hero:
   name: "BLFEI"
   text: "Built-Up Land Features Extraction Index"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Urban</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #242</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Urban</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #240</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1080/10106049.2018.1497094"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+BLFEI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+BLFEI+%E2%80%94+"
 ---
 
 <script setup>

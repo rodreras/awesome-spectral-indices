@@ -6,7 +6,7 @@ pageClass: "index-page domain-vegetation"
 hero:
   name: "SARBR2"
   text: "Scatter-Adjusted Reflectance Band Ratio 2"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-hyperspectral\">Hyperspectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #114</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-hyperspectral\">Hyperspectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #116</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/S0034-4257(98)00046-7"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+SARBR2+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+SARBR2+%E2%80%94+"
 ---
 
 <script setup>

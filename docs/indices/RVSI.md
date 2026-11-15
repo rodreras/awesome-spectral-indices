@@ -16,7 +16,7 @@ hero:
       link: "https://popo.jpl.nasa.gov/pub/docs/workshops/98_docs/37.pdf"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+RVSI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+RVSI+%E2%80%94+"
 ---
 
 <script setup>

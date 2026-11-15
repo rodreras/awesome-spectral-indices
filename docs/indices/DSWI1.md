@@ -6,7 +6,7 @@ pageClass: "index-page domain-vegetation"
 hero:
   name: "DSWI1"
   text: "Disease-Water Stress Index 1"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #150</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Vegetation</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #148</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1080/01431160310001618031"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+DSWI1+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+DSWI1+%E2%80%94+"
 ---
 
 <script setup>

@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1109/IGARSS.2001.976856"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+QpRVI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+QpRVI+%E2%80%94+"
 ---
 
 <script setup>

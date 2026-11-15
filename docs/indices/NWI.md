@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.11873/j.issn.1004-0323.2009.2.167"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NWI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+NWI+%E2%80%94+"
 ---
 
 <script setup>

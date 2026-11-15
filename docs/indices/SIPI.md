@@ -16,7 +16,7 @@ hero:
       link: "https://eurekamag.com/research/009/395/009395053.php"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+SIPI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+SIPI+%E2%80%94+"
 ---
 
 <script setup>

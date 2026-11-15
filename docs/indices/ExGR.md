@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/j.compag.2008.03.009"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+ExGR+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+ExGR+%E2%80%94+"
 ---
 
 <script setup>

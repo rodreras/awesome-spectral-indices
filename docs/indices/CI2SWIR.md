@@ -6,7 +6,7 @@ pageClass: "index-page domain-clouds"
 hero:
   name: "CI2SWIR"
   text: "Cloud Index Form 2 with SWIR bands"
-  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Clouds</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #202</span></span>"
+  tagline: "<span class=\"hero-classification-badges\"><span class=\"hero-domain-badge\">Clouds</span><span class=\"hero-modality-badge modality-multispectral\">Multispectral</span><span class=\"hero-citation-badge citation-rank-standard\">Citation Rank #203</span></span>"
   actions:
     - theme: brand
       text: 🡰 Back to Catalogue Search
@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/j.isprsjprs.2018.07.006"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+CI2SWIR+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+CI2SWIR+%E2%80%94+"
 ---
 
 <script setup>

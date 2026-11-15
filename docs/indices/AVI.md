@@ -16,7 +16,7 @@ hero:
       link: "https://www.researchgate.net/publication/255718070_Tropical_forest_cover_density_mapping"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+AVI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+AVI+%E2%80%94+"
 ---
 
 <script setup>

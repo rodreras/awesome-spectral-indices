@@ -16,7 +16,7 @@ hero:
       link: "https://doi.org/10.1016/j.rse.2003.12.013"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+MTVI1+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+MTVI1+%E2%80%94+"
 ---
 
 <script setup>

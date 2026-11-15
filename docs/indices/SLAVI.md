@@ -16,7 +16,7 @@ hero:
       link: "https://www.asprs.org/wp-content/uploads/pers/2000journal/february/2000_feb_183-191.pdf"
     - theme: alt
       text: Report error
-      link: "https://github.com/awesome-spectral-indices/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+SLAVI+%E2%80%94+"
+      link: "https://github.com/rodreras/awesome-spectral-indices/issues/new?template=report-error.md&title=INDEX+ERROR%3A+SLAVI+%E2%80%94+"
 ---
 
 <script setup>
